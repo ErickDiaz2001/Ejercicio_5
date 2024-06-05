@@ -40,7 +40,7 @@ o	CÁLCULO DEL VOLTAJE REAL:
 
 o	IMPRESIÓN DEL RESULTADO:
 
-	Se utiliza la función printf() para imprimir en la UART el valor leído del ADC ("ADC CH1 value: ") seguido del valor leído, luego se imprimir el mensaje "Max sample value: " seguido del valor máximo posible de la lectura (1024).
+	Se utiliza la función printf() para imprimir en la UART el valor leído del ADC ("ADC CH1 value: ") seguido del valor leído, luego se imprimir el mensaje "Max sample value: " seguido del valor máximo posible de la lectura (4096).
 
 	Otra opción es de utilizar la función itoa() para la conversión de los valores e imprimirlo mediante hal_uart_transmit().
 
