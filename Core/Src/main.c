@@ -110,7 +110,7 @@ int main(void)
   while (1)
   {
 	  printf("ADC CH1 value: %d\n\r", adc_Valor);
-	  printf("Max sample value: 1024\n\r");
+	  printf("Max sample value: 4096\n\r");
 	  HAL_Delay(100);
     /* USER CODE END WHILE */
 
