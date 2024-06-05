@@ -46,7 +46,7 @@ o	IMPRESIÓN DEL RESULTADO:
 
 ANÁLISIS DE RESULTADOS 
 
-![image](https://github.com/ErickDiaz2001/Ejercicio_5/assets/169405943/9f733e73-0b6f-4197-a62d-abaac3edb565)
+![ttttttttttt](https://github.com/ErickDiaz2001/Ejercicio_5/assets/169405943/a16ab357-8e24-4134-bf4a-582cd21a0cc4)
 
 
 CONCLUSIÓN
