@@ -52,6 +52,7 @@ CONCLUSIÓN
 
 Este informe describe un programa para leer la entrada analógica del canal CH1, el cual está conectado a un divisor resistivo de 2k2 // 2k2. 
 El programa imprime el valor de la lectura a través de la interfaz UART, mostrando tanto el valor digital leído del ADC como el valor máximo posible de la lectura (2048).
+
 El programa es simple, eficiente y permite la adquisición de datos de sensores analógicos conectados a un divisor resistivo. 
 Para mejorar la precisión y robustez del sistema, se pueden implementar consideraciones futuras como filtros para suavizar las lecturas del ADC y procedimientos de calibración
 para ajustar la exactitud de las mediciones.
